@@ -46,6 +46,7 @@ Plot the datas using Box Plot
 DEVELOPED BY: VISWA PRIYA G
 
 REGISTER NUMBER: 212221220061
+
 (1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe
 ```
 import pandas as pd
