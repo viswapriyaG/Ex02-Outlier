@@ -17,9 +17,9 @@ You are given bhp.csv which contains property prices in the city of banglore, In
     
 # DATE:
 
-GITHUB LINK:
+GITHUB LINK:https://github.com/viswapriyaG/Ex02-Outlier.git
 
-COLAB LINK: https://colab.research.google.com/drive/1n1titcRR_tW3CUm1vL0gLQ-SAjDPRRdy#scrollTo=5BP1qAGMhftJ
+COLAB LINK:https://colab.research.google.com/drive/1n1titcRR_tW3CUm1vL0gLQ-SAjDPRRdy#scrollTo=5BP1qAGMhftJ
 
 # Explanation
 
